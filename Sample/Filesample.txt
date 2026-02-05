@@ -1,2 +1,0 @@
-This is the file for git and github
-This is the sample checking for the git and github
